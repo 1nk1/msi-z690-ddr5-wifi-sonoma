@@ -28,3 +28,6 @@
 - [x] AirDrop
 - [x] AppleEFINVRAM
 - [X] Sleep and WakeUP
+
+![Screenshot 2024-08-28 at 16 05 55](https://github.com/user-attachments/assets/d582177b-1404-4734-88e6-0e1ad5ad6669)
+
