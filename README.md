@@ -27,3 +27,4 @@
 - [x] Powersaving
 - [x] AirDrop
 - [x] AppleEFINVRAM
+- [X] Sleep and WakeUP
