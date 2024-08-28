@@ -29,3 +29,4 @@
 - [x] AppleEFINVRAM
 - [X] Sleep and WakeUP
 
+![pic](https://github.com/user-attachments/assets/b5b5593d-c96f-4516-99f4-4b0c2313cafd)
